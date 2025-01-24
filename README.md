@@ -1,6 +1,6 @@
 - 👋 Hi, I’m alisha saiyed
-- 👀 I’m interested in coding, designing.
-- 🌱 I’m currently learning Android Studio.
+- 👀 I’m interested in devops and web designing.
+- 🌱 I’m currently learning UI/UX and devops fundamentals.
 - 📫 You can reach me anytime on saiyedalisha110@gmail.com
 
 <!---
