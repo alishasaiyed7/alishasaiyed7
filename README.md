@@ -1,9 +1,16 @@
-- 👋 Hi, I’m alisha saiyed
-- 👀 I’m interested in devops and web designing.
-- 🌱 I’m currently learning UI/UX and devops fundamentals.
-- 📫 You can reach me anytime on saiyedalisha110@gmail.com
+👩‍💻 Alisha Saiyed | Cloud & DevOps Enthusiast
 
-<!---
-alishasaiyed7/alishasaiyed7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 System Administrator with 2+ years of experience in Windows Server, VMware, and Active Directory, now transitioning into Cloud & DevOps Engineering.
+Passionate about AWS, automation, CI/CD pipelines, and system reliability.
+
+🔧 Skills & Tools
+
+Cloud: AWS (EC2, S3, RDS, EBS, Auto Scaling, IAM, CloudWatch)
+
+System Administration: Windows Server (2008/2012/2016/2019), Active Directory, DNS
+
+Virtualization: VMware vSphere (VM creation, cloning, snapshot, troubleshooting)
+
+DevOps: Jenkins (CI/CD), Git, Bash Scripting
+
+Networking: Firewalls, Switches, DNS, Email Deliverability (SPF, DKIM, DMARC)
